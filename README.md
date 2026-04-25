@@ -55,4 +55,4 @@ The Container Apps environment must be pre-provisioned and linked to a Log Analy
 | relay_endpoint | WSS endpoint for the relay Container App |
 | relay_id | Resource ID of the relay Container App |
 
-See the [full documentation](https://docs.conduiter.com/getting-started/azure-setup) for detailed setup instructions.
+See the [full documentation](https://app.conduiter.com/docs/getting-started/azure-setup) for detailed setup instructions.
